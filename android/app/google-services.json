@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "199901279058",
+    "project_id": "justpeace-8d524",
+    "storage_bucket": "justpeace-8d524.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199901279058:android:cf03b19e1723ffc68b008b",
+        "android_client_info": {
+          "package_name": "com.example.just_peace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHibN2B5Di2zcG94Uk8oknvFWqLAJDlt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199901279058:android:0266b394e290ede88b008b",
+        "android_client_info": {
+          "package_name": "com.example.just_peace_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHibN2B5Di2zcG94Uk8oknvFWqLAJDlt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
